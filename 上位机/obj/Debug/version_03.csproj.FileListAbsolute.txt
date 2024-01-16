@@ -1,0 +1,455 @@
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_03\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_03\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_03\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_03\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_03\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_03\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_03\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_03\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_03\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_03\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_03\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_04\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_05\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_06\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_07\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_09\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_11\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_12\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_13\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_14\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_15\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_16\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\二自由度\电机\上位机开发\version_18\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_19\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_21\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\上位机\version_23\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 1\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 2\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\开源资料\version_23 - 副本 3\obj\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\version_03.exe.config
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\version_03.exe.manifest
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\version_03.application
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\version_03.pdb
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\MathNet.Numerics.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\ScottPlot.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\ScottPlot.WinForms.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\System.Drawing.Common.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\System.Numerics.Vectors.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\System.ValueTuple.dll
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\MathNet.Numerics.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\ScottPlot.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\System.Numerics.Vectors.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\bin\Debug\System.ValueTuple.xml
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\obj\Debug\version_03.csproj.AssemblyReference.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\obj\Debug\version_03.csproj.SuggestedBindingRedirects.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\obj\Debug\version_03.Form1.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\obj\Debug\version_03.Properties.Resources.resources
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\obj\Debug\version_03.csproj.GenerateResource.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\obj\Debug\version_03.csproj.CoreCompileInputs.cache
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\obj\Debug\version_03.exe.manifest
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\obj\Debug\version_03.application
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\obj\Debug\version_03.csproj.CopyComplete
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\obj\Debug\version_03.exe
+E:\生活\学习\串联6轴\动力学控制\三自由度\轻擎机械臂\上位机\obj\Debug\version_03.pdb
